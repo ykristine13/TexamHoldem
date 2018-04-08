@@ -1,0 +1,4 @@
+#pane{
+    -fx-background-image: url("../../../../images/wood-texture.jpg");
+    -fx-background-repeat: repeat-x;
+}
